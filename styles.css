@@ -7,6 +7,7 @@ body{
 	background-color:#2ecc71;
 	border : none;
 	height: 30px; 
+	text-align :center;
 }
 img{
 	display : block;
